@@ -5,6 +5,7 @@ public class Lab3Exercises {
 		JFrame myFrame = new JFrame("Javier Ortiz Garcia");
 		myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		myFrame.setLocation(900, 400);
+		// center screen
 		myFrame.setSize(200, 200);
 		myFrame.setVisible(true);
 	}
