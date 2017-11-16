@@ -6,7 +6,7 @@ public class Lab3Exercises {
 		myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		myFrame.setLocation(900, 400);
 		// center screen
-		myFrame.setSize(200, 200);
+		myFrame.setSize(500, 300);
 		
 		MyPanelClass myPanel = new MyPanelClass();
         myFrame.getContentPane().add(myPanel);
